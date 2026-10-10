@@ -1,0 +1,3 @@
+print("welcome");
+print("xyz");
+print("Charani");
